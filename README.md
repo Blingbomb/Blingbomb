@@ -6,6 +6,10 @@
 - [x] Incessant gamer.
 - [x] Eternal learner.
 
+## Here's my stats:
+
+![Blingy Stats](https://github-readme-stats.vercel.app/api?username=Blingbomb&show_icons=true&theme=dark)
+
 ## Here's my favorite website:
 
 https://matias.ma/nsfw/
@@ -14,14 +18,13 @@ https://matias.ma/nsfw/
 
 ## I know...
 
-- Python 🐍 (Beginner)
-- Javascript 🟨 (Beginner)
+![](https://skillicons.dev/icons?i=python,javascript&theme=dark)
+<sub>(Barely.)</sub>
 
 ## I'd like to know
 
-- CSS #️⃣ / HTML 5️⃣
-- C++ ©️➕➕ <sub>How WOULD you "emojify" C++?</sub>
+![](https://skillicons.dev/icons?i=css,html,cpp&theme=dark)
 
 # That's all! 
 
-<sub>Thanks @bossman7309 for introducing me to GitHub!</sub>
+<sub>(Thanks @bossman7309 for introducing me to GitHub!)</sub>
