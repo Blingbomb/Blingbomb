@@ -27,4 +27,4 @@ https://matias.ma/nsfw/
 
 # That's all! 
 
-<sub>(Thanks @bossman7309 for introducing me to GitHub!)</sub>
+<sub>(Thanks @[bossman7309](https://github.com/IUseDebianBtw) for introducing me to GitHub!)</sub>
