@@ -10,10 +10,6 @@
 
 ![Blingy Stats](https://github-readme-stats.vercel.app/api?username=Blingbomb&show_icons=true&theme=dark)
 
-## Here's my resume:
-
-
-
 ## I know...
 
 ![](https://skillicons.dev/icons?i=python,javascript,java,cpp,cs&theme=dark)
