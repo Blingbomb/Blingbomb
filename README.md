@@ -12,7 +12,7 @@
 
 ## I know...
 
-![](https://skillicons.dev/icons?i=python,javascript,java,cpp,cs&theme=dark)
+![](https://skillicons.dev/icons?i=python,javascript,java,cpp,cs,html,css&theme=dark)
 
 ## What kind of work am I looking for?
 
