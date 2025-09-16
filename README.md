@@ -16,12 +16,13 @@
 
 ## I know...
 
-![](https://skillicons.dev/icons?i=python,javascript,java,c++,c#&theme=dark)
+![](https://skillicons.dev/icons?i=python,javascript,java,cpp,cs&theme=dark)
 
-## I'd like to know
+## What kind of work am I looking for?
 
-![](https://skillicons.dev/icons?i=css,html,cpp&theme=dark)
+- [x] Software engineering and product development
+- [x] IT and server managment
+- [x] Web development and maintenance
+- [x] ...and more!
 
 # That's all! 
-
-<sub>(Thanks @[bossman7309](https://github.com/IUseDebianBtw) for introducing me to GitHub!)</sub>
