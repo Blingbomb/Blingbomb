@@ -1,4 +1,4 @@
-# Hello! Name's Alex <sub>*(or Microcoin)*</sub>
+# Hello! Name's Alex <sub>*(or Blingbomb)*</sub>
 
 ## I'm a:
 
@@ -16,7 +16,7 @@
 
 ## I know...
 
-![](https://skillicons.dev/icons?i=python,javascript, java, c++, c#&theme=dark)
+![](https://skillicons.dev/icons?i=python,javascript,java,c++,c#&theme=dark)
 
 ## I'd like to know
 
